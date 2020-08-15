@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Lino 👋🏾
+---
+
+#### I'm Android Developer based in Florianópolis, SC.
+
+- 🏢 I'm currently working with awesome peeps at **Dextra**
+
 
 <!--
 **velosobr/velosobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github stats](https://github-readme-stats.vercel.app/api?username=WayneChang65&show_icons=true&line_height=30)
