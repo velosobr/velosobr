@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![github stats](https://github-readme-stats.vercel.app/api?username=velosobr&count_private=true&theme=dracula&show_icons=true&line_height=15)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velosobr&layout=compact)](https://github.com/velosobr/github-readme-stats)
+
+-->
+![github stats](https://github-readme-stats.vercel.app/api?username=velosobr&count_private=true&theme=dracula&show_icons=true&line_height=15)
