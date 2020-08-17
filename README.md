@@ -1,6 +1,5 @@
 ### Welcome to my GitHub! I'm Lino 👋🏾
 <br>
-<br>
 
 - 🌱 I'm transitioning my carreer into Software Developer. Through a graduation in Information Systems and a lot of self-study. 
 - 🏢 I'm currently taking part in an intern program, working with awesome peeps for **Dextra**.
