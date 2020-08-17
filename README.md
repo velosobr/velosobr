@@ -8,7 +8,7 @@
 
 - 🤓 Fun fact: I'm currently enjoying <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>
 
-- 📫 You can find me on <a href = "https://www.linkedin.com/in/linoveloso/">linkedin</a> ;).
+- 📫 You can find me on <a href = "https://www.linkedin.com/in/linoveloso/">linkedin</a> ;)
 
 
 <!--
