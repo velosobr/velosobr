@@ -1,4 +1,4 @@
-### Welcome to my GitHub! I'm Lino 👋🏾
+### Welcome to my GitHub! I'm Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br>
 
 - 🌱 I'm transitioning my carreer into Software Developer. Through a graduation in Information Systems and a lot of self-study. 
