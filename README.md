@@ -2,7 +2,7 @@
 <br>
 
 - 🌱 I'm transitioning my carreer into Software Developer. Through a graduation in Information Systems and a lot of self-study. 
-- 🏢 I'm currently taking part in an intern program, working with awesome peeps for **Dextra**.
+- 🏢 I'm currently taking part in an Intern program, working with awesome peeps for **Dextra**.
 - 📱 I'm building a solid foundation in native mobile development (Android / Kotlin). 
 - 💻 I also flert with some back-end programming (Node.js).
 
