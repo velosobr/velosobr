@@ -8,7 +8,7 @@
 
 - 🤓 Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>, and I'm going to the next one o/
 
-- 📫 You can find me on <a href = "linoc.veloso@gmail.com">email</a> ;)
+- 📫 You can find me on <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
 
 
 <!--
