@@ -4,7 +4,7 @@
 - 🌱  I changed my career  recently to become a Software Developer. Through a graduation in Information Systems and a lot of self-study. 
 - 🏢  I'm currently working as an Android Developer, with awesome peeps for **Dextra** inside a project for a big company, called **Alelo**.
 - 📱  I'm building a solid foundation in native mobile development (Android / Kotlin). 
-- 💻  I also flert with some back-end programming (Python and Node.js).
+- 💻  I also flert with some back-end programming (Node.js).
 
 - 🤓  Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>, and I'm going to the next one o/
 
