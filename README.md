@@ -8,7 +8,7 @@
 
 - 🤓  Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>, and it took me to the next level in my career. Now in 2022 I increased the challenge and challenged myself to 365 days of code o/
 
-- 📫 You can find me on [linkedin](https://www.linkedin.com/in/linoveloso/) or <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
+- 📫 You can find me on <a href="https://www.linkedin.com/in/linoveloso/">linkedin</a> or <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
 
 
 <!--
