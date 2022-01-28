@@ -6,9 +6,9 @@
 - 📱 I'm always in constant evolution, caring about building a solid foundation in native mobile development (Android / Kotlin). 
 - 💻  I also flert with some back-end programming (Node.js).
 
-- 🤓  Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>, and it took me to the next level in my career. Now in 2022 I increased the challenge and challenged myself to 365 days of code o/
+- 🤓  Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click" target="_blank">#100DaysOfCode</a>, and it took me to the next level in my career. Now in 2022 I increased the challenge and challenged myself to 365 days of code o/
 
-- 📫 You can find me on <a href="https://www.linkedin.com/in/linoveloso/">linkedin</a> or <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
+- 📫 You can find me on <a href="https://www.linkedin.com/in/linoveloso/" target="_blank">linkedin</a> or <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
 
 
 <!--
