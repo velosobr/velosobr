@@ -2,7 +2,7 @@
 <br>
 
 - 🌱  I changed my career recently (2020) to become a Software Developer. Through a graduation in Information Systems and a lot of self-study. 
-- 🏢  I'm currently working as an Android Developer, with awesome peeps for **Ifood** inside an exciting project.
+- 🏢  I'm currently working as an Android Developer, with awesome peeps for **XPinc** inside an exciting project.
 - 📱 I'm always in constant evolution, caring about building a solid foundation in native mobile development (Android / Kotlin). 
 - 💻  I also flert with some back-end programming (Node.js).
 
