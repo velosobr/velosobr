@@ -1,14 +1,14 @@
-### Welcome to my GitHub! I'm Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<br>
+### Welcome to my GitHub! I'm Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱  I changed my career recently (2020) to become a Software Developer. Through a graduation in Information Systems and a lot of self-study. 
-- 🏢  I'm currently working as an Android Developer, with awesome peeps for **XPinc** inside an exciting project.
-- 📱 I'm always in constant evolution, caring about building a solid foundation in native mobile development (Android / Kotlin). 
-- 💻  I also flert with some back-end programming (Node.js).
+- 🌱 I transitioned to a career in software development in 2020, driven by a passion for technology. With a degree in Information Systems and extensive self-study, I've dedicated myself to mastering this field.
+- 🏢 Currently, I am an Android Developer at **XP Inc**, collaborating with an amazing team on an exciting project.
+- 📱 I am committed to continuous improvement, focusing on building a strong foundation in native mobile development (Android/Kotlin) and studying mobile software architecture.
+- 💻 I also dabble in backend programming with Node.js, expanding my skill set and exploring new challenges.
+- 🤓 Fun fact: I completed the #100DaysOfCode challenge 3 times, which significantly advanced my career. In 2024, I took on the challenge again, pushing myself to new heights.
 
-- 🤓  Fun fact: I achieved one entire season of <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click" target="_blank">#100DaysOfCode</a>, and it took me to the next level in my career. Now in 2022 I challenged myself again to another one o/
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/linoveloso/) or via [email](mailto:linoc.veloso@gmail.com).
 
-- 📫 You can find me on <a href="https://www.linkedin.com/in/linoveloso/" target="_blank">linkedin</a> or <a href="mailto:linoc.veloso@gmail.com">email</a> ;)
+---
 
 
 <!--
