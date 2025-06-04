@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! I'm Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I transitioned to a career in software development in 2020, driven by a passion for technology. With a degree in Information Systems and extensive self-study, I've dedicated myself to mastering this field.
-- 🏢 Currently, I am an Android Developer at **Getnet**, collaborating with an amazing team on an exciting project.
+- 🏢 Currently, I am an Android Developer at **STONE**, collaborating with an amazing team on an exciting project.
 - 📱 I am committed to continuous improvement, focusing on building a strong foundation in native mobile development (Android/Kotlin) and studying mobile software architecture.
 - 💻 I also dabble in backend programming with Node.js, expanding my skill set and exploring new challenges.
 - 🤓 Fun fact: I completed the #100DaysOfCode challenge 3 times, which significantly advanced my career. In 2024, I took on the challenge again, pushing myself to new heights.
